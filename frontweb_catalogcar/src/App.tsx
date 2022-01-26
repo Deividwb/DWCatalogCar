@@ -1,9 +1,10 @@
 import "./assets/styles/custom.scss";
 import './App.css';
+import Routes from "Routes";
 
 function App() {
   return (
-    <h1>Dentro do app</h1>
+    <Routes/>
   );
 }
 
