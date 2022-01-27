@@ -1,0 +1,23 @@
+.product-card {
+  margin-bottom: 30px;
+}
+
+.card-container {
+  text-align: center;
+  padding: 16px 0;
+  border: 1px solid black;
+}
+
+.card-img {
+  width: auto;
+  height: auto;
+  border: 1px solid rebeccapurple;
+}
+
+.card-text {
+    border: 1px solid green;
+}
+
+.btn-buy{
+    border: 1px solid brown;
+}

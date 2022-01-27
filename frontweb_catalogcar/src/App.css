@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&display=swap');
+
+*tart{
+    font-family: 'Open Sans', sans-serif;
+}
+
+h1,h2,h3,h4,h5,h6{
+    font-weight: 700;
+    margin-bottom: 0;    
+}
+
+a, a:hover{
+    text-decoration: none;
+    color: unset;
+}
+
+.base-card {
+   
+    background-color: #EDEDED;
+    width: 258px;
+    height: 347px;
+    left: 20px;
+    top: 253px;   
+    border-radius: 10px;  
+  }
