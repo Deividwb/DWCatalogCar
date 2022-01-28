@@ -1,4 +1,4 @@
-import ButtonBuscar from 'components/ButtonBuscar';
+import ButtonBuscar from 'components/ButtonSource';
 import ProductCar from 'components/ProductCard';
 
 const Catalog = () => {

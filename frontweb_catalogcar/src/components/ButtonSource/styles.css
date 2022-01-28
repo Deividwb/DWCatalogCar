@@ -1,0 +1,42 @@
+.btn-container {
+  background-color: #ededed;
+  width: 728px;
+  height: 123px;
+  left: 20px;
+  top: 100px;
+  border-radius: 10px;
+  display: flex;
+  align-content: center;
+  border: 1px solid red;
+}
+.card-source {
+  padding: 42px 192px 41px 20px;
+
+  display: flex;
+
+  height: 20px;
+}
+
+.card-source input {
+  width: 516px;
+  height: 40px;
+  left: 40px;
+  justify-content: center;
+}
+
+.btn h6 {
+  color: #fff;
+  font-size: 12px;
+  text-transform: uppercase;
+}
+
+.btn-buscar-container {
+  display: flex;
+  justify-content: center;
+  width: 174px;
+  height: 40px;
+  left: 556px;
+  top: 141px;
+  background: #00285F;
+  border-radius: 0px 5px 5px 0px
+}
