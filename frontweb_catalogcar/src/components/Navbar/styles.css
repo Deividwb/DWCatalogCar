@@ -2,3 +2,19 @@
     padding-left: 40px;
     min-height: 70px;
 }
+
+.main-menu {
+    display: flex;
+    font-size: 18px;
+    width: 243px;
+    justify-content: space-between;
+}
+
+.main-menu a {
+    color: #00285F;
+}
+
+.main-menu a.active {
+    color: #00285F;
+    font-weight: bold;
+}
