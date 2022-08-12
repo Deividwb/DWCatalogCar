@@ -1,10 +1,11 @@
 .main-nav{
     padding-left: 40px;
-    height: 70px;
+    min-height: 70px;
 }
 
 .main-menu {
-    display: flex;
+    display: flex;    
+    height: 21px;
     font-size: 18px;
     width: 243px;
     justify-content: space-between;
