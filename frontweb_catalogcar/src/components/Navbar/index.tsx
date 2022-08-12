@@ -11,12 +11,12 @@ const Navbar = () => {
         <div className="collapse navbar-collapse">
           <ul className="navbar-nav offset-md-2 main-menu">
             <li>
-              <NavLink to="/" activeClassName="active">
-                Home
-              </NavLink>
+              <NavLink to="/" activeClassName="active">Home</NavLink>
             </li>
             <li>
-              <NavLink to="/products">Catalógo</NavLink>
+              <NavLink to="/products" activeClassName="active">
+                Catalógo
+              </NavLink>
             </li>
           </ul>
         </div>
